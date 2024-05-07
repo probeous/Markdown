@@ -29,3 +29,9 @@ Bold, italic and bold-italic formatted fonts: <br>
 
 Equations: <br>
 You can write the equations by enclosing $ spoons. For example, The Pythagorean theorem is as follows: $a^2 + b^2 = c^2$.
+
+Inline Code:
+To add inline code, use backticks. Example: `int x = 0;`
+
+Code Block:
+To add a code block, use triple backticks:
